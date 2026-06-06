@@ -8,7 +8,7 @@ source.include_exts = py,json,wav
 
 version = 1.0.0
 
-requirements = python3,kivy==2.3.0,openpyxl,reportlab,pillow
+requirements = python3,kivy==2.3.0,openpyxl,pillow
 
 orientation = portrait
 
